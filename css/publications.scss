@@ -1,0 +1,16 @@
+---
+---
+
+.publications {
+    position: relative;
+    padding: 0;
+    list-style: none;
+
+    .publication-body {
+        font-size: medium;
+    }
+
+    .publication ~ .publication {
+        margin-top: 1.3em;
+    }
+}
