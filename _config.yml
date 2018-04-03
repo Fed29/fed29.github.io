@@ -189,8 +189,8 @@ email: "federico.angaramo@outlook.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Federico Angaramo is an awesome person. He lives in Biella (Italy), where he works on Data Science and AI projects. In his spare time, Federico likes to ride his bike."
-author_blurb_image: "/img/author.jpg"
+#author_blurb: "Federico Angaramo is an awesome person. He lives in Biella (Italy), where he works on Data Science and AI projects. In his spare time, Federico likes to ride his bike."
+#author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #

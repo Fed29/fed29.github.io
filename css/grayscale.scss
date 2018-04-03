@@ -49,12 +49,12 @@ h4 {
 
 p {
     margin: 0 0 25px;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     @media(min-width:768px) {
         margin: 0 0 35px;
-        font-size: 20px;
-        line-height: 1.6;
+        font-size: 18px;
+        line-height: 1.5;
     }
 }
 
@@ -249,7 +249,7 @@ a {
     /* Added in { Personal } */
     ul,
     ol {
-        text-align: center;
+        /*text-align: center;*/
         margin: 0 0 25px;
         font-size: 18px;
         line-height: 1.5;
@@ -329,10 +329,25 @@ ul.social-buttons li a {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 0;
     text-align: center;
     p {
         margin: 0;
+    }
+    .author-footer {
+        font-size: small;
+
+        p {
+            font-size: small;
+        }
+
+        .copyright {
+            float: left;
+        }
+
+        .social-buttons {
+            float: right;
+        }
     }
 }
 
