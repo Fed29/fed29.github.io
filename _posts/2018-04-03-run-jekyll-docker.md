@@ -13,11 +13,12 @@ I switched to [Docker](https://www.docker.com/) and everythings figure out! Than
 
 Now I'm going to describe you the solution I used and you will able to understand how easy it is.
 
-### Requirements:
+### Requirements
 * Windows 10 Pro 64 bit (1607 Anniversary Update, Build 14393 or later)
 * Hyper-V enabled 
 * Docker for Windows
 
+### Steps
 First of all we need to pull the `Jekyll image` from [Docker Hub](https://hub.docker.com/).
 
 ```
